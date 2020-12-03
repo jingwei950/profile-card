@@ -1,0 +1,47 @@
+body{
+  background-color: #14818a;
+  margin: 0;
+}
+
+.attribution {
+  font-size: 11px; text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.container{
+
+}
+.card-container{
+  width:350px;
+  height: 400px;
+  background-color: white;
+  margin: 300px auto 300px auto;
+  border-radius: 15px;
+}
+
+.card-bg{
+  border-radius: 15px 15px 0 0;
+}
+
+.vector-img{
+  position: relative;
+  margin: 0 132px 0 132px;
+  bottom: 50px;
+}
+
+.top-img{
+  position:absolute;
+  right: 1300px;
+  bottom:500px;
+}
+
+/* .bottom-img{
+  position:absolute;
+  left: 1500px;
+  height:936px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+} */
